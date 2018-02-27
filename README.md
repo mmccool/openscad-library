@@ -1,2 +1,2 @@
-# openscad-library
-A bunch of things I found useful for OpenScad work
+# OpenSCAD Library
+A bunch of things I found useful for OpenSCAD work.
